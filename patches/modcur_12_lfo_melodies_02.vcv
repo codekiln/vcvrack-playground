@@ -482,11 +482,11 @@
       "params": [
         {
           "paramId": 0,
-          "value": 2.632375
+          "value": 3.27673626
         },
         {
           "paramId": 1,
-          "value": 0.214500085
+          "value": 0.408000201
         }
       ],
       "pos": [
@@ -943,6 +943,20 @@
       "outputId": 1,
       "inputModuleId": 11,
       "inputId": 4
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 1,
+      "outputId": 5,
+      "inputModuleId": 4,
+      "inputId": 2
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 1,
+      "outputId": 5,
+      "inputModuleId": 4,
+      "inputId": 3
     }
   ]
 }
