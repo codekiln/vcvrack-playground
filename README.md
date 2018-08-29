@@ -1,2 +1,2 @@
 # vcvrack-playground
-Fun with [vcv rack](vcvrack.com)
+Fun with [vcv rack](https://vcvrack.com/)
