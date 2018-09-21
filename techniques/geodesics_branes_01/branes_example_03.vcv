@@ -17,7 +17,7 @@
         }
       },
       "pos": [
-        60,
+        85,
         1
       ]
     },
@@ -39,7 +39,7 @@
         "onstate": 1
       },
       "pos": [
-        54,
+        79,
         1
       ]
     },
@@ -177,7 +177,7 @@
         "diffuseInput": 1
       },
       "pos": [
-        8,
+        67,
         1
       ]
     },
@@ -196,7 +196,7 @@
         }
       ],
       "data": {
-        "trigBypass0": 0.0,
+        "trigBypass0": 1.0,
         "trigBypass1": 0.0,
         "panelTheme": 0
       },
@@ -232,7 +232,7 @@
         "onstate": 1
       },
       "pos": [
-        32,
+        54,
         1
       ]
     },
@@ -254,7 +254,7 @@
         "onstate": 1
       },
       "pos": [
-        2,
+        61,
         1
       ]
     },
@@ -269,31 +269,31 @@
         },
         {
           "paramId": 3,
-          "value": 0.0
+          "value": 0.363000035
         },
         {
           "paramId": 4,
-          "value": 0.0
+          "value": 0.265500128
         },
         {
           "paramId": 5,
-          "value": 0.414999962
+          "value": 0.439500242
         },
         {
           "paramId": 6,
-          "value": 0.838999927
+          "value": 0.534000158
         },
         {
           "paramId": 7,
-          "value": 0.5
+          "value": 0.542499781
         },
         {
           "paramId": 8,
-          "value": 0.201000586
+          "value": 0.659999907
         },
         {
           "paramId": 9,
-          "value": 0.0
+          "value": 0.143099919
         },
         {
           "paramId": 0,
@@ -334,7 +334,7 @@
         },
         {
           "paramId": 2,
-          "value": 0.0209999997
+          "value": 0.0165000018
         },
         {
           "paramId": 3,
@@ -350,11 +350,11 @@
         },
         {
           "paramId": 6,
-          "value": 0.049499955
+          "value": 0.196499974
         },
         {
           "paramId": 7,
-          "value": 0.0
+          "value": 0.18599999
         },
         {
           "paramId": 8,
@@ -366,19 +366,39 @@
         },
         {
           "paramId": 10,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "paramId": 11,
-          "value": 0.0
+          "value": 1.0
         }
       ],
       "data": {
         "linearLevel": false
       },
       "pos": [
-        60,
+        56,
         0
+      ]
+    },
+    {
+      "plugin": "JW-Modules",
+      "version": "0.6.2",
+      "model": "Quantizer",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 0.0
+        },
+        {
+          "paramId": 1,
+          "value": 11.0
+        }
+      ],
+      "data": {},
+      "pos": [
+        23,
+        1
       ]
     },
     {
@@ -398,26 +418,6 @@
       "data": {},
       "pos": [
         32,
-        0
-      ]
-    },
-    {
-      "plugin": "JW-Modules",
-      "version": "0.6.2",
-      "model": "Quantizer",
-      "params": [
-        {
-          "paramId": 0,
-          "value": 0.0
-        },
-        {
-          "paramId": 1,
-          "value": 11.0
-        }
-      ],
-      "data": {},
-      "pos": [
-        36,
         0
       ]
     },
@@ -448,7 +448,7 @@
         "onstate": 1
       },
       "pos": [
-        26,
+        47,
         1
       ]
     },
@@ -510,7 +510,7 @@
         "linearLevel": false
       },
       "pos": [
-        50,
+        36,
         0
       ]
     },
@@ -572,8 +572,8 @@
         "linearLevel": false
       },
       "pos": [
-        40,
-        0
+        27,
+        1
       ]
     },
     {
@@ -603,7 +603,7 @@
         "onstate": 1
       },
       "pos": [
-        20,
+        40,
         1
       ]
     },
@@ -838,6 +838,13 @@
       "outputId": 2,
       "inputModuleId": 7,
       "inputId": 6
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 6,
+      "outputId": 5,
+      "inputModuleId": 3,
+      "inputId": 16
     }
   ]
 }
