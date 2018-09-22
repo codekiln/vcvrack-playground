@@ -1,0 +1,922 @@
+{
+  "version": "0.6.2b",
+  "modules": [
+    {
+      "plugin": "Geodesics",
+      "version": "0.6.3",
+      "model": "BlackHoles",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 1.0
+        },
+        {
+          "paramId": 1,
+          "value": 0.0
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.0119999237
+        },
+        {
+          "paramId": 4,
+          "value": -0.575999975
+        },
+        {
+          "paramId": 5,
+          "value": -0.623999774
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 0.555000126
+        },
+        {
+          "paramId": 8,
+          "value": 0.0
+        },
+        {
+          "paramId": 9,
+          "value": 0.0
+        },
+        {
+          "paramId": 10,
+          "value": 0.0
+        },
+        {
+          "paramId": 11,
+          "value": 0.0
+        },
+        {
+          "paramId": 12,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "isExponential0": 0.0,
+        "isExponential1": 0.0,
+        "wormhole": true,
+        "panelTheme": 0,
+        "cvMode": 2
+      },
+      "pos": [
+        43,
+        1
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "version": "0.6.2",
+      "model": "Scope",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 0.0
+        },
+        {
+          "paramId": 1,
+          "value": 0.0
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": -8.13000011
+        },
+        {
+          "paramId": 4,
+          "value": -14.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "lissajous": 0,
+        "external": 0
+      },
+      "pos": [
+        54,
+        1
+      ]
+    },
+    {
+      "plugin": "squinkylabs-plug1",
+      "version": "0.6.7",
+      "model": "squinkylabs-funv",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 1.0
+        },
+        {
+          "paramId": 2,
+          "value": -17.3340054
+        },
+        {
+          "paramId": 1,
+          "value": 1.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.5
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        }
+      ],
+      "pos": [
+        30,
+        1
+      ]
+    },
+    {
+      "plugin": "VultModulesFree",
+      "version": "0.6.10",
+      "model": "Splie",
+      "params": [],
+      "pos": [
+        40,
+        1
+      ]
+    },
+    {
+      "plugin": "squinkylabs-plug1",
+      "version": "0.6.7",
+      "model": "squinkylabs-funv",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 1.0
+        },
+        {
+          "paramId": 2,
+          "value": -16.5240021
+        },
+        {
+          "paramId": 1,
+          "value": 1.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.5
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        }
+      ],
+      "pos": [
+        68,
+        1
+      ]
+    },
+    {
+      "plugin": "ModularFungi",
+      "version": "0.6.1",
+      "model": "Blank 1HP",
+      "params": [],
+      "pos": [
+        67,
+        1
+      ]
+    },
+    {
+      "plugin": "VultModulesFree",
+      "version": "0.6.10",
+      "model": "Splie",
+      "params": [],
+      "pos": [
+        78,
+        1
+      ]
+    },
+    {
+      "plugin": "Geodesics",
+      "version": "0.6.3",
+      "model": "BlackHoles",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 1.0
+        },
+        {
+          "paramId": 1,
+          "value": 0.592000008
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.605999827
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": -0.296999902
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 0.0
+        },
+        {
+          "paramId": 8,
+          "value": 0.0
+        },
+        {
+          "paramId": 9,
+          "value": 0.0
+        },
+        {
+          "paramId": 10,
+          "value": 0.0
+        },
+        {
+          "paramId": 11,
+          "value": 0.0
+        },
+        {
+          "paramId": 12,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "isExponential0": 1.0,
+        "isExponential1": 0.0,
+        "wormhole": true,
+        "panelTheme": 0,
+        "cvMode": 3
+      },
+      "pos": [
+        81,
+        1
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "version": "0.6.2",
+      "model": "Scope",
+      "params": [
+        {
+          "paramId": 0,
+          "value": -1.0
+        },
+        {
+          "paramId": 1,
+          "value": 5.79000044
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": -7.95999956
+        },
+        {
+          "paramId": 4,
+          "value": -14.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "lissajous": 0,
+        "external": 0
+      },
+      "pos": [
+        92,
+        1
+      ]
+    },
+    {
+      "plugin": "squinkylabs-plug1",
+      "version": "0.6.7",
+      "model": "squinkylabs-funv",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 1.0
+        },
+        {
+          "paramId": 2,
+          "value": -16.5240021
+        },
+        {
+          "paramId": 1,
+          "value": 1.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.5
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        }
+      ],
+      "pos": [
+        30,
+        2
+      ]
+    },
+    {
+      "plugin": "VultModulesFree",
+      "version": "0.6.10",
+      "model": "Splie",
+      "params": [],
+      "pos": [
+        40,
+        2
+      ]
+    },
+    {
+      "plugin": "Geodesics",
+      "version": "0.6.3",
+      "model": "BlackHoles",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 1.0
+        },
+        {
+          "paramId": 1,
+          "value": 0.85799998
+        },
+        {
+          "paramId": 2,
+          "value": -0.0569999404
+        },
+        {
+          "paramId": 3,
+          "value": 0.0119999237
+        },
+        {
+          "paramId": 4,
+          "value": -0.0750000104
+        },
+        {
+          "paramId": 5,
+          "value": 0.110999882
+        },
+        {
+          "paramId": 6,
+          "value": -0.0510000624
+        },
+        {
+          "paramId": 7,
+          "value": 0.0
+        },
+        {
+          "paramId": 8,
+          "value": 0.0
+        },
+        {
+          "paramId": 9,
+          "value": 0.0
+        },
+        {
+          "paramId": 10,
+          "value": 0.0
+        },
+        {
+          "paramId": 11,
+          "value": 0.0
+        },
+        {
+          "paramId": 12,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "isExponential0": 0.0,
+        "isExponential1": 0.0,
+        "wormhole": true,
+        "panelTheme": 0,
+        "cvMode": 2
+      },
+      "pos": [
+        43,
+        2
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "version": "0.6.2",
+      "model": "Scope",
+      "params": [
+        {
+          "paramId": 0,
+          "value": -1.0
+        },
+        {
+          "paramId": 1,
+          "value": 6.38999891
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": -8.13000011
+        },
+        {
+          "paramId": 4,
+          "value": -14.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "lissajous": 0,
+        "external": 0
+      },
+      "pos": [
+        54,
+        2
+      ]
+    },
+    {
+      "plugin": "ModularFungi",
+      "version": "0.6.1",
+      "model": "Blank 1HP",
+      "params": [],
+      "pos": [
+        67,
+        2
+      ]
+    },
+    {
+      "plugin": "squinkylabs-plug1",
+      "version": "0.6.7",
+      "model": "squinkylabs-funv",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 1.0
+        },
+        {
+          "paramId": 2,
+          "value": -16.5240021
+        },
+        {
+          "paramId": 1,
+          "value": 1.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.5
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        }
+      ],
+      "pos": [
+        68,
+        2
+      ]
+    },
+    {
+      "plugin": "VultModulesFree",
+      "version": "0.6.10",
+      "model": "Splie",
+      "params": [],
+      "pos": [
+        78,
+        2
+      ]
+    },
+    {
+      "plugin": "Geodesics",
+      "version": "0.6.3",
+      "model": "BlackHoles",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 1.0
+        },
+        {
+          "paramId": 1,
+          "value": 0.0
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 0.0
+        },
+        {
+          "paramId": 8,
+          "value": 0.0
+        },
+        {
+          "paramId": 9,
+          "value": 0.0
+        },
+        {
+          "paramId": 10,
+          "value": 0.0
+        },
+        {
+          "paramId": 11,
+          "value": 0.0
+        },
+        {
+          "paramId": 12,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "isExponential0": 1.0,
+        "isExponential1": 0.0,
+        "wormhole": true,
+        "panelTheme": 0,
+        "cvMode": 3
+      },
+      "pos": [
+        81,
+        2
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "version": "0.6.2",
+      "model": "Scope",
+      "params": [
+        {
+          "paramId": 0,
+          "value": -1.0
+        },
+        {
+          "paramId": 1,
+          "value": 5.79000044
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": -7.95999956
+        },
+        {
+          "paramId": 4,
+          "value": -14.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        },
+        {
+          "paramId": 7,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "lissajous": 0,
+        "external": 0
+      },
+      "pos": [
+        92,
+        2
+      ]
+    }
+  ],
+  "wires": [
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 2,
+      "outputId": 0,
+      "inputModuleId": 3,
+      "inputId": 0
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 3,
+      "outputId": 0,
+      "inputModuleId": 0,
+      "inputId": 0
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 3,
+      "outputId": 1,
+      "inputModuleId": 1,
+      "inputId": 0
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 0,
+      "outputId": 0,
+      "inputModuleId": 3,
+      "inputId": 1
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 3,
+      "outputId": 3,
+      "inputModuleId": 0,
+      "inputId": 1
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 3,
+      "outputId": 4,
+      "inputModuleId": 0,
+      "inputId": 9
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 0,
+      "outputId": 8,
+      "inputModuleId": 0,
+      "inputId": 12
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 0,
+      "outputId": 9,
+      "inputModuleId": 1,
+      "inputId": 1
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 4,
+      "outputId": 1,
+      "inputModuleId": 6,
+      "inputId": 0
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 6,
+      "outputId": 0,
+      "inputModuleId": 7,
+      "inputId": 0
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 7,
+      "outputId": 0,
+      "inputModuleId": 6,
+      "inputId": 1
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 6,
+      "outputId": 3,
+      "inputModuleId": 7,
+      "inputId": 1
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 6,
+      "outputId": 4,
+      "inputModuleId": 7,
+      "inputId": 9
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 7,
+      "outputId": 8,
+      "inputModuleId": 7,
+      "inputId": 12
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 7,
+      "outputId": 9,
+      "inputModuleId": 8,
+      "inputId": 1
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 6,
+      "outputId": 1,
+      "inputModuleId": 8,
+      "inputId": 0
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 6,
+      "outputId": 2,
+      "inputModuleId": 7,
+      "inputId": 10
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 9,
+      "outputId": 2,
+      "inputModuleId": 10,
+      "inputId": 0
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 10,
+      "outputId": 0,
+      "inputModuleId": 11,
+      "inputId": 0
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 10,
+      "outputId": 1,
+      "inputModuleId": 12,
+      "inputId": 0
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 11,
+      "outputId": 0,
+      "inputModuleId": 10,
+      "inputId": 1
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 10,
+      "outputId": 3,
+      "inputModuleId": 11,
+      "inputId": 1
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 10,
+      "outputId": 4,
+      "inputModuleId": 11,
+      "inputId": 9
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 11,
+      "outputId": 8,
+      "inputModuleId": 11,
+      "inputId": 12
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 11,
+      "outputId": 9,
+      "inputModuleId": 12,
+      "inputId": 1
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 14,
+      "outputId": 3,
+      "inputModuleId": 15,
+      "inputId": 0
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 15,
+      "outputId": 0,
+      "inputModuleId": 16,
+      "inputId": 0
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 15,
+      "outputId": 1,
+      "inputModuleId": 17,
+      "inputId": 0
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 16,
+      "outputId": 0,
+      "inputModuleId": 15,
+      "inputId": 1
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 15,
+      "outputId": 3,
+      "inputModuleId": 16,
+      "inputId": 1
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 15,
+      "outputId": 4,
+      "inputModuleId": 16,
+      "inputId": 9
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 16,
+      "outputId": 8,
+      "inputModuleId": 16,
+      "inputId": 12
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 16,
+      "outputId": 9,
+      "inputModuleId": 17,
+      "inputId": 1
+    }
+  ]
+}
