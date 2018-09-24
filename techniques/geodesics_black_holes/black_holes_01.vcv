@@ -8,8 +8,8 @@
       "params": [],
       "data": {
         "audio": {
-          "driver": 6,
-          "deviceName": "Line (4- Steinberg UR242)",
+          "driver": 5,
+          "deviceName": "Apple Inc.: Built-in Output",
           "offset": 0,
           "maxChannels": 8,
           "sampleRate": 44100,
@@ -17,7 +17,7 @@
         }
       },
       "pos": [
-        155,
+        92,
         0
       ]
     },
@@ -109,13 +109,13 @@
         "ppqn": 4
       },
       "pos": [
-        14,
+        0,
         1
       ]
     },
     {
       "plugin": "cf",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "model": "MASTER",
       "params": [
         {
@@ -128,10 +128,10 @@
         }
       ],
       "data": {
-        "onstate": 0
+        "onstate": 1
       },
       "pos": [
-        149,
+        86,
         0
       ]
     },
@@ -269,13 +269,13 @@
         "diffuseInput": 1
       },
       "pos": [
-        90,
-        1
+        74,
+        0
       ]
     },
     {
       "plugin": "cf",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "model": "MASTER",
       "params": [
         {
@@ -291,13 +291,13 @@
         "onstate": 1
       },
       "pos": [
-        143,
+        68,
         0
       ]
     },
     {
       "plugin": "Geodesics",
-      "version": "0.6.2",
+      "version": "0.6.3",
       "model": "BlackHoles",
       "params": [
         {
@@ -361,8 +361,8 @@
         "cvMode": 2
       },
       "pos": [
-        25,
-        2
+        39,
+        0
       ]
     },
     {
@@ -384,13 +384,13 @@
         }
       ],
       "pos": [
-        47,
-        2
+        28,
+        1
       ]
     },
     {
       "plugin": "Geodesics",
-      "version": "0.6.2",
+      "version": "0.6.3",
       "model": "Branes",
       "params": [
         {
@@ -408,8 +408,8 @@
         "panelTheme": 0
       },
       "pos": [
-        14,
-        2
+        0,
+        0
       ]
     },
     {
@@ -484,8 +484,8 @@
         "mode": 1
       },
       "pos": [
-        39,
-        2
+        20,
+        1
       ]
     },
     {
@@ -560,8 +560,8 @@
         "mode": 2
       },
       "pos": [
-        56,
-        2
+        52,
+        1
       ]
     },
     {
@@ -583,8 +583,8 @@
         }
       ],
       "pos": [
-        64,
-        2
+        60,
+        1
       ]
     },
     {
@@ -659,8 +659,8 @@
         "mode": 1
       },
       "pos": [
-        73,
-        2
+        36,
+        1
       ]
     },
     {
@@ -682,13 +682,13 @@
         }
       ],
       "pos": [
-        81,
-        2
+        44,
+        1
       ]
     },
     {
       "plugin": "cf",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "model": "MONO",
       "params": [
         {
@@ -713,13 +713,13 @@
         "onstate": 1
       },
       "pos": [
-        137,
+        62,
         0
       ]
     },
     {
       "plugin": "cf",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "model": "MONO",
       "params": [
         {
@@ -744,13 +744,13 @@
         "onstate": 1
       },
       "pos": [
-        131,
+        56,
         0
       ]
     },
     {
       "plugin": "cf",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "model": "MONO",
       "params": [
         {
@@ -775,7 +775,7 @@
         "onstate": 1
       },
       "pos": [
-        125,
+        50,
         0
       ]
     },
@@ -838,8 +838,8 @@
         }
       ],
       "pos": [
-        46,
-        1
+        21,
+        0
       ]
     },
     {
@@ -873,88 +873,8 @@
         }
       ],
       "pos": [
-        35,
-        1
-      ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 1HP",
-      "params": [],
-      "pos": [
-        55,
-        2
-      ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 1HP",
-      "params": [],
-      "pos": [
-        72,
-        2
-      ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 1HP",
-      "params": [],
-      "pos": [
-        89,
-        2
-      ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 12HP",
-      "params": [],
-      "pos": [
-        90,
-        2
-      ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 3HP",
-      "params": [],
-      "pos": [
-        36,
-        2
-      ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 26HP",
-      "params": [],
-      "pos": [
-        64,
-        1
-      ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 1HP",
-      "params": [],
-      "pos": [
-        45,
-        1
-      ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 1HP",
-      "params": [],
-      "pos": [
-        34,
-        1
+        11,
+        0
       ]
     }
   ],
