@@ -8,8 +8,8 @@
       "params": [],
       "data": {
         "audio": {
-          "driver": 6,
-          "deviceName": "Line (4- Steinberg UR242)",
+          "driver": 5,
+          "deviceName": "Apple Inc.: Built-in Output",
           "offset": 0,
           "maxChannels": 8,
           "sampleRate": 44100,
@@ -23,7 +23,7 @@
     },
     {
       "plugin": "cf",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "model": "MASTER",
       "params": [
         {
@@ -263,7 +263,7 @@
     },
     {
       "plugin": "cf",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "model": "MASTER",
       "params": [
         {
@@ -377,7 +377,7 @@
     },
     {
       "plugin": "cf",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "model": "MONO",
       "params": [
         {
@@ -386,7 +386,7 @@
         },
         {
           "paramId": 1,
-          "value": 0.0
+          "value": 1.09499967
         },
         {
           "paramId": 2,
@@ -466,7 +466,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.10",
+      "version": "0.6.12",
       "model": "Tangents",
       "params": [
         {
@@ -548,7 +548,7 @@
     },
     {
       "plugin": "cf",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "model": "MONO",
       "params": [
         {
@@ -602,7 +602,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.10",
+      "version": "0.6.12",
       "model": "Tangents",
       "params": [
         {
@@ -637,7 +637,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.10",
+      "version": "0.6.12",
       "model": "Splie",
       "params": [],
       "pos": [
@@ -709,7 +709,7 @@
     },
     {
       "plugin": "cf",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "model": "MONO",
       "params": [
         {
@@ -979,7 +979,7 @@
     },
     {
       "plugin": "cf",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "model": "MONO",
       "params": [
         {
@@ -1010,7 +1010,7 @@
     },
     {
       "plugin": "AS",
-      "version": "0.6.9",
+      "version": "0.6.10",
       "model": "TremoloFx",
       "params": [
         {
@@ -1046,7 +1046,7 @@
     },
     {
       "plugin": "AS",
-      "version": "0.6.9",
+      "version": "0.6.10",
       "model": "SuperDriveFx",
       "params": [
         {
@@ -1078,7 +1078,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.10",
+      "version": "0.6.12",
       "model": "Debriatus",
       "params": [
         {
@@ -1116,89 +1116,6 @@
       ],
       "pos": [
         148,
-        4
-      ]
-    },
-    {
-      "plugin": "KlirrFactoryFree",
-      "version": "0.6.2",
-      "model": "ClockMultiplier",
-      "params": [
-        {
-          "paramId": 3,
-          "value": 1.0
-        },
-        {
-          "paramId": 4,
-          "value": 1.0
-        },
-        {
-          "paramId": 5,
-          "value": 1.0
-        },
-        {
-          "paramId": 6,
-          "value": 1.0
-        },
-        {
-          "paramId": 7,
-          "value": 1.0
-        },
-        {
-          "paramId": 8,
-          "value": 1.0
-        },
-        {
-          "paramId": 9,
-          "value": 1.0
-        },
-        {
-          "paramId": 10,
-          "value": 1.0
-        },
-        {
-          "paramId": 11,
-          "value": 1.0
-        },
-        {
-          "paramId": 12,
-          "value": 1.0
-        },
-        {
-          "paramId": 13,
-          "value": 1.0
-        },
-        {
-          "paramId": 14,
-          "value": 1.0
-        },
-        {
-          "paramId": 15,
-          "value": 1.0
-        },
-        {
-          "paramId": 16,
-          "value": 1.0
-        },
-        {
-          "paramId": 17,
-          "value": 1.0
-        },
-        {
-          "paramId": 18,
-          "value": 1.0
-        },
-        {
-          "paramId": 0,
-          "value": 4.0
-        },
-        {
-          "paramId": 1,
-          "value": 1.0
-        }
-      ],
-      "pos": [
-        66,
         4
       ]
     },
@@ -2616,56 +2533,6 @@
         71,
         4
       ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 20HP",
-      "params": [],
-      "pos": [
-        77,
-        2
-      ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 1HP",
-      "params": [],
-      "pos": [
-        76,
-        2
-      ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 10HP",
-      "params": [],
-      "pos": [
-        154,
-        3
-      ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 1HP",
-      "params": [],
-      "pos": [
-        117,
-        3
-      ]
-    },
-    {
-      "plugin": "ModularFungi",
-      "version": "0.6.1",
-      "model": "Blank 1HP",
-      "params": [],
-      "pos": [
-        106,
-        3
-      ]
     }
   ],
   "wires": [
@@ -3035,24 +2902,10 @@
     },
     {
       "color": "#0c8e15",
-      "outputModuleId": 29,
+      "outputModuleId": 28,
       "outputId": 1,
       "inputModuleId": 21,
       "inputId": 1
-    },
-    {
-      "color": "#0986ad",
-      "outputModuleId": 18,
-      "outputId": 2,
-      "inputModuleId": 28,
-      "inputId": 0
-    },
-    {
-      "color": "#c9b70e",
-      "outputModuleId": 28,
-      "outputId": 0,
-      "inputModuleId": 29,
-      "inputId": 0
     }
   ]
 }
