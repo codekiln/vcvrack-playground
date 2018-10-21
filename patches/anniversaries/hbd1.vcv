@@ -230,11 +230,11 @@
         },
         {
           "paramId": 2,
-          "value": 0.0450000092
+          "value": 0.341999948
         },
         {
           "paramId": 3,
-          "value": -0.648000002
+          "value": 0.552000105
         },
         {
           "paramId": 4,
@@ -250,7 +250,7 @@
         },
         {
           "paramId": 7,
-          "value": 0.0
+          "value": 0.327000052
         },
         {
           "paramId": 8,
@@ -258,7 +258,7 @@
         },
         {
           "paramId": 9,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "paramId": 10,
@@ -266,7 +266,7 @@
         },
         {
           "paramId": 11,
-          "value": 0.0629999638
+          "value": 0.0
         },
         {
           "paramId": 12,
@@ -298,7 +298,7 @@
         },
         {
           "paramId": 21,
-          "value": 0.0
+          "value": 0.432000041
         },
         {
           "paramId": 22,
@@ -310,7 +310,7 @@
         },
         {
           "paramId": 24,
-          "value": 0.383999944
+          "value": -0.333000034
         },
         {
           "paramId": 25,
@@ -350,7 +350,7 @@
         }
       ],
       "data": {
-        "mod_a": 0,
+        "mod_a": 11,
         "mod_b": 3,
         "mod_c": 0,
         "mod_d": 2,
@@ -389,11 +389,11 @@
       "params": [
         {
           "paramId": 0,
-          "value": 1.0
+          "value": 0.965500057
         },
         {
           "paramId": 1,
-          "value": 0.5
+          "value": 0.467000037
         },
         {
           "paramId": 2,
@@ -401,7 +401,7 @@
         },
         {
           "paramId": 3,
-          "value": 8.3949995
+          "value": 10.0
         },
         {
           "paramId": 4,
@@ -409,7 +409,7 @@
         },
         {
           "paramId": 5,
-          "value": 0.745999575
+          "value": 0.61099875
         },
         {
           "paramId": 6,
@@ -528,7 +528,7 @@
       "params": [
         {
           "paramId": 0,
-          "value": 0.335999966
+          "value": 0.440999985
         },
         {
           "paramId": 2,
@@ -536,7 +536,7 @@
         },
         {
           "paramId": 1,
-          "value": 0.511500239
+          "value": 0.490500361
         },
         {
           "paramId": 3,
@@ -544,11 +544,11 @@
         },
         {
           "paramId": 4,
-          "value": 0.514500141
+          "value": 0.349500149
         },
         {
           "paramId": 5,
-          "value": 0.561000109
+          "value": 0.609000206
         },
         {
           "paramId": 8,
@@ -556,7 +556,7 @@
         },
         {
           "paramId": 6,
-          "value": 1.38700044
+          "value": 1.54300046
         },
         {
           "paramId": 7,
@@ -579,15 +579,15 @@
         },
         {
           "paramId": 1,
-          "value": 0.10200002
+          "value": -0.0899999663
         },
         {
           "paramId": 2,
-          "value": 0.0
+          "value": 0.282000005
         },
         {
           "paramId": 3,
-          "value": -0.614999652
+          "value": 0.117000006
         },
         {
           "paramId": 4,
@@ -599,15 +599,15 @@
         },
         {
           "paramId": 6,
-          "value": 0.0
+          "value": -0.135000005
         },
         {
           "paramId": 7,
-          "value": 0.0
+          "value": 0.296999961
         },
         {
           "paramId": 8,
-          "value": 0.62700063
+          "value": -0.56099999
         },
         {
           "paramId": 9,
@@ -615,7 +615,7 @@
         },
         {
           "paramId": 10,
-          "value": 0.603500009
+          "value": 0.489499956
         },
         {
           "paramId": 11,
@@ -623,15 +623,15 @@
         },
         {
           "paramId": 12,
-          "value": 0.0
+          "value": 0.1065
         },
         {
           "paramId": 13,
-          "value": 0.363000065
+          "value": 0.45750007
         },
         {
           "paramId": 15,
-          "value": 0.312000036
+          "value": 0.718500078
         },
         {
           "paramId": 16,
@@ -647,7 +647,7 @@
         },
         {
           "paramId": 14,
-          "value": 0.0
+          "value": 0.45600009
         },
         {
           "paramId": 21,
@@ -663,7 +663,7 @@
         },
         {
           "paramId": 24,
-          "value": 0.450000018
+          "value": 0.498000026
         },
         {
           "paramId": 25,
@@ -671,7 +671,7 @@
         },
         {
           "paramId": 26,
-          "value": 0.0
+          "value": 0.894000173
         },
         {
           "paramId": 27,
@@ -699,7 +699,7 @@
         },
         {
           "paramId": 33,
-          "value": 0.0
+          "value": -0.063000001
         }
       ],
       "data": {
@@ -708,7 +708,7 @@
         "mod_c": 0,
         "mod_d": 1,
         "mod_e": 0,
-        "mod_f": 0
+        "mod_f": 8
       },
       "pos": [
         20,
@@ -722,7 +722,7 @@
       "params": [
         {
           "paramId": 0,
-          "value": 0.17400004
+          "value": 0.431999981
         },
         {
           "paramId": 2,
@@ -730,27 +730,27 @@
         },
         {
           "paramId": 1,
-          "value": 0.507000148
+          "value": 0.748500228
         },
         {
           "paramId": 3,
-          "value": 0.0
+          "value": -0.671000123
         },
         {
           "paramId": 4,
-          "value": 0.498000085
+          "value": 0.358500034
         },
         {
           "paramId": 5,
-          "value": 0.543000042
+          "value": 0.588000238
         },
         {
           "paramId": 8,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "paramId": 6,
-          "value": 1.375
+          "value": 1.48599994
         },
         {
           "paramId": 7,
@@ -769,15 +769,15 @@
       "params": [
         {
           "paramId": 0,
-          "value": 0.0075000003
+          "value": 0.0
         },
         {
           "paramId": 1,
-          "value": 0.333500147
+          "value": 0.150500044
         },
         {
           "paramId": 2,
-          "value": 0.68449986
+          "value": 0.849499881
         },
         {
           "paramId": 3,
@@ -801,7 +801,7 @@
         },
         {
           "paramId": 8,
-          "value": 0.0
+          "value": 1.0
         }
       ],
       "pos": [
@@ -816,19 +816,19 @@
       "params": [
         {
           "paramId": 0,
-          "value": 0.0299999937
+          "value": 0.0
         },
         {
           "paramId": 1,
-          "value": 0.13699986
+          "value": 0.191000015
         },
         {
           "paramId": 2,
-          "value": 0.357499987
+          "value": 0.850000203
         },
         {
           "paramId": 3,
-          "value": 0.0
+          "value": 0.0824999958
         },
         {
           "paramId": 4,
@@ -840,7 +840,7 @@
         },
         {
           "paramId": 6,
-          "value": 0.0
+          "value": -0.363000095
         },
         {
           "paramId": 7,
@@ -867,7 +867,7 @@
         },
         {
           "paramId": 0,
-          "value": 1.0
+          "value": 1.22799957
         },
         {
           "paramId": 3,
@@ -1107,15 +1107,15 @@
       "params": [
         {
           "paramId": 0,
-          "value": -0.173999906
+          "value": -0.074999854
         },
         {
           "paramId": 1,
-          "value": -0.501999795
+          "value": -0.324999899
         },
         {
           "paramId": 2,
-          "value": 0.360000014
+          "value": 0.534000039
         },
         {
           "paramId": 3,
@@ -1139,22 +1139,22 @@
         }
       ],
       "data": {
-        "phi1": -4.40034246,
-        "phi2": -1.17520666,
-        "phi3": -3.16132712,
-        "phi4": -3.97549009,
-        "w1": -16.4259319,
-        "w2": -21.5730782,
-        "w3": -7.63077831,
-        "w4": -8.56944656,
-        "store_phi1": 0.0,
-        "store_phi2": 0.0,
-        "store_phi3": 0.0,
-        "store_phi4": 0.0,
-        "store_w1": 0.0,
-        "store_w2": 0.0,
-        "store_w3": 0.0,
-        "store_w4": 0.0
+        "phi1": -0.994761348,
+        "phi2": -3.20047235,
+        "phi3": -2.02834415,
+        "phi4": -3.49091125,
+        "w1": -5.01814604,
+        "w2": -20.4571266,
+        "w3": 17.2563763,
+        "w4": 5.25908613,
+        "store_phi1": -0.252727509,
+        "store_phi2": 1.11248016,
+        "store_phi3": -0.896273851,
+        "store_phi4": -2.74438953,
+        "store_w1": -16.1824417,
+        "store_w2": 4.28294992,
+        "store_w3": 8.65327358,
+        "store_w4": -4.59526348
       },
       "pos": [
         73,
@@ -1168,7 +1168,7 @@
       "params": [
         {
           "paramId": 0,
-          "value": 0.381500036
+          "value": 0.398000002
         },
         {
           "paramId": 1,
@@ -1180,11 +1180,11 @@
         },
         {
           "paramId": 3,
-          "value": 0.350999832
+          "value": 1.0
         },
         {
           "paramId": 4,
-          "value": 0.275999695
+          "value": 0.539999723
         },
         {
           "paramId": 5,
@@ -1203,7 +1203,7 @@
       "params": [
         {
           "paramId": 0,
-          "value": 0.342500687
+          "value": 0.434000701
         },
         {
           "paramId": 1,
@@ -1211,11 +1211,11 @@
         },
         {
           "paramId": 2,
-          "value": 0.707999945
+          "value": 0.860999823
         },
         {
           "paramId": 3,
-          "value": 0.443999976
+          "value": 0.558000028
         },
         {
           "paramId": 4,
@@ -1223,7 +1223,7 @@
         },
         {
           "paramId": 5,
-          "value": 0.354000032
+          "value": 0.467999995
         }
       ],
       "pos": [
@@ -1238,11 +1238,11 @@
       "params": [
         {
           "paramId": 0,
-          "value": -0.347999901
+          "value": -0.32099995
         },
         {
           "paramId": 1,
-          "value": 0.222000003
+          "value": 0.645000219
         },
         {
           "paramId": 2,
@@ -1270,14 +1270,14 @@
         }
       ],
       "data": {
-        "phi1": -1.21787858,
-        "phi2": -1.76414263,
-        "phi3": -4.79867077,
-        "phi4": 4.72339916,
-        "w1": -3.57477784,
-        "w2": 3.57797766,
-        "w3": -6.39603281,
-        "w4": -2.67007732,
+        "phi1": -0.716911972,
+        "phi2": -1.64314771,
+        "phi3": -1.3762542,
+        "phi4": -0.62234354,
+        "w1": 5.43007183,
+        "w2": -0.032785587,
+        "w3": -15.9120827,
+        "w4": 3.50722933,
         "store_phi1": 0.0,
         "store_phi2": 0.0,
         "store_phi3": 0.0,
@@ -1319,7 +1319,7 @@
         },
         {
           "paramId": 7,
-          "value": 0.794999897
+          "value": 0.825000107
         },
         {
           "paramId": 12,
@@ -1335,11 +1335,11 @@
         },
         {
           "paramId": 9,
-          "value": 0.161999881
+          "value": 0.188999847
         },
         {
           "paramId": 14,
-          "value": 0.0599999875
+          "value": 0.0930000022
         },
         {
           "paramId": 19,
@@ -1367,7 +1367,7 @@
         },
         {
           "paramId": 8,
-          "value": 0.0
+          "value": 1.0
         },
         {
           "paramId": 13,
@@ -1593,7 +1593,7 @@
       "params": [
         {
           "paramId": 0,
-          "value": 0.41899994
+          "value": 0.521000206
         },
         {
           "paramId": 1,
@@ -1605,7 +1605,7 @@
         },
         {
           "paramId": 3,
-          "value": 0.275999963
+          "value": 0.359999835
         },
         {
           "paramId": 4,
@@ -1617,7 +1617,7 @@
         },
         {
           "paramId": 6,
-          "value": 0.383000225
+          "value": 0.519500136
         },
         {
           "paramId": 7,
@@ -1799,15 +1799,15 @@
       "params": [
         {
           "paramId": 0,
-          "value": -0.0648000166
+          "value": 0.210000023
         },
         {
           "paramId": 1,
-          "value": -0.501000345
+          "value": 0.44999975
         },
         {
           "paramId": 2,
-          "value": 0.255749851
+          "value": 0.536249816
         },
         {
           "paramId": 3,
@@ -1852,7 +1852,7 @@
       "params": [
         {
           "paramId": 0,
-          "value": 0.151499897
+          "value": 0.753000021
         },
         {
           "paramId": 1,
@@ -1860,11 +1860,11 @@
         },
         {
           "paramId": 2,
-          "value": 0.772999883
+          "value": 0.648499906
         },
         {
           "paramId": 3,
-          "value": 0.207499608
+          "value": 0.892999589
         },
         {
           "paramId": 4,
@@ -2462,6 +2462,55 @@
       "outputModuleId": 16,
       "outputId": 1,
       "inputModuleId": 21,
+      "inputId": 2
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 9,
+      "outputId": 0,
+      "inputModuleId": 16,
+      "inputId": 14
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 11,
+      "outputId": 9,
+      "inputModuleId": 8,
+      "inputId": 3
+    },
+    {
+      "color": "#c91847",
+      "outputModuleId": 14,
+      "outputId": 9,
+      "inputModuleId": 1,
+      "inputId": 3
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 14,
+      "outputId": 3,
+      "inputModuleId": 11,
+      "inputId": 4
+    },
+    {
+      "color": "#0986ad",
+      "outputModuleId": 14,
+      "outputId": 6,
+      "inputModuleId": 11,
+      "inputId": 5
+    },
+    {
+      "color": "#c9b70e",
+      "outputModuleId": 16,
+      "outputId": 1,
+      "inputModuleId": 5,
+      "inputId": 8
+    },
+    {
+      "color": "#0c8e15",
+      "outputModuleId": 14,
+      "outputId": 9,
+      "inputModuleId": 5,
       "inputId": 2
     }
   ]

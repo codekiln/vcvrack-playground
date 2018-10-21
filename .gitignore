@@ -4,3 +4,5 @@ plugins/
 settings.json
 otherworks/
 screenshots/
+recordings/
+*.wav
