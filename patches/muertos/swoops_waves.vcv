@@ -23,7 +23,7 @@
     },
     {
       "plugin": "JW-Modules",
-      "version": "0.6.2",
+      "version": "0.6.3",
       "model": "GridSeq",
       "params": [
         {
@@ -216,17 +216,17 @@
           1,
           1,
           0,
+          1,
           0,
           1,
           1,
-          1,
-          0,
-          0,
-          0,
           0,
           1,
           0,
-          0
+          1,
+          1,
+          0,
+          1
         ],
         "gateMode": 0
       },
@@ -237,7 +237,7 @@
     },
     {
       "plugin": "JW-Modules",
-      "version": "0.6.2",
+      "version": "0.6.3",
       "model": "SimpleClock",
       "params": [
         {
@@ -267,7 +267,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.14",
+      "version": "0.6.16",
       "model": "Vessek",
       "params": [
         {
@@ -414,7 +414,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.14",
+      "version": "0.6.16",
       "model": "Vessek",
       "params": [
         {
@@ -561,16 +561,16 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.14",
+      "version": "0.6.16",
       "model": "UtilKnobs",
       "params": [
         {
           "paramId": 0,
-          "value": 0.618499696
+          "value": 0.60199964
         },
         {
           "paramId": 1,
-          "value": 0.261000305
+          "value": 0.168000028
         },
         {
           "paramId": 2,
@@ -586,15 +586,15 @@
         },
         {
           "paramId": 5,
-          "value": 1.0
+          "value": 2.0
         },
         {
           "paramId": 6,
-          "value": 0.579500139
+          "value": 0.551000118
         },
         {
           "paramId": 7,
-          "value": 0.408000112
+          "value": 0.150000006
         },
         {
           "paramId": 8,
@@ -610,7 +610,7 @@
         },
         {
           "paramId": 11,
-          "value": 0.0
+          "value": 2.0
         }
       ],
       "pos": [
@@ -759,12 +759,12 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.14",
+      "version": "0.6.16",
       "model": "Tangents",
       "params": [
         {
           "paramId": 0,
-          "value": 0.375275373
+          "value": 0.35232532
         },
         {
           "paramId": 1,
@@ -794,7 +794,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.14",
+      "version": "0.6.16",
       "model": "Tangents",
       "params": [
         {
@@ -829,7 +829,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.14",
+      "version": "0.6.16",
       "model": "Unstabile",
       "params": [
         {
@@ -872,7 +872,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.14",
+      "version": "0.6.16",
       "model": "Unstabile",
       "params": [
         {
@@ -915,7 +915,7 @@
     },
     {
       "plugin": "JW-Modules",
-      "version": "0.6.2",
+      "version": "0.6.3",
       "model": "Quantizer",
       "params": [
         {
@@ -935,7 +935,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.14",
+      "version": "0.6.16",
       "model": "Caudal",
       "params": [
         {
@@ -972,14 +972,14 @@
         }
       ],
       "data": {
-        "phi1": 5.14270449,
-        "phi2": 0.000302873785,
-        "phi3": 0.551173866,
-        "phi4": 4.32912493,
-        "w1": 6.52667522,
-        "w2": 14.4595709,
-        "w3": -11.3881226,
-        "w4": 0.915504992,
+        "phi1": 0.320292741,
+        "phi2": 0.319790483,
+        "phi3": -0.60374999,
+        "phi4": 5.16239691,
+        "w1": 16.9358864,
+        "w2": -13.3619299,
+        "w3": -4.18229389,
+        "w4": 14.4537153,
         "store_phi1": 0.0,
         "store_phi2": 0.0,
         "store_phi3": 0.0,
@@ -996,7 +996,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.14",
+      "version": "0.6.16",
       "model": "UtilKnobs",
       "params": [
         {
@@ -1055,7 +1055,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.14",
+      "version": "0.6.16",
       "model": "Julste",
       "params": [
         {
@@ -1102,7 +1102,7 @@
     },
     {
       "plugin": "VultModulesFree",
-      "version": "0.6.14",
+      "version": "0.6.16",
       "model": "Julste",
       "params": [
         {
